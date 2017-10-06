@@ -1,0 +1,47 @@
+/*Comentario*/
+
+body{
+	margin: 0px;
+	padding-top: 0px;
+	text-align: center; /*alinea el texto e imagenes*/
+	font-family: 'Roboto', sans-serif; 
+	/*cuando quiero q todo tenga la misma letra*/
+}
+/* Las clases se llaman con un punto 
+y el nombre de la clase*/
+.principal-color{
+	/*background: black; colores en inglés
+	rgb (86, 102, 161);*/
+	background: #B82828; 
+	padding-bottom: 20px; /*dar espacio*/
+} 
+p{
+	color: #333333;
+	font-family: 'Arial'; 
+}
+.info{
+	padding-top: 20px; /*dar espacio*/
+	background: #C4C7CF; 
+}
+/**/
+h1{
+	color: white;/* sans-serif, 
+	se usará cuando la letra no esté disponible*/
+	/*font-family: 'Roboto', sans-serif; */
+	}
+.logo{
+	width: 500px; /*ancho de la imagen*/
+	height: 300px; /*alto de la imagen*/
+	margin: 0px;
+}
+.disco{
+	width: 200px; /*ancho de la imagen*/
+	height: 200px; /*alto de la imagen*/
+	border-radius: 50%;
+
+}
+.footer{
+		background: #C4C3C3;
+		border-top:1px solid white; /*separador*/
+}
+
